@@ -14,7 +14,7 @@
     "url": "https://github.com/kekeh/angular-mydatepicker.git"
   },
   "peerDependencies": {
-    "@angular/common": "^7.2.0",
-    "@angular/core": "^7.2.0"
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
   }
 }
